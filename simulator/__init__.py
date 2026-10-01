@@ -1,0 +1,1 @@
+"""Synthetic FleetGuard event producer."""

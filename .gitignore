@@ -1,0 +1,44 @@
+# Python bytecode and environments
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.crt
+
+# Node dependencies and build output
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+dist/
+build/
+.next/
+coverage/
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs, temporary files, tests, and local data
+*.log
+logs/
+tmp/
+temp/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+docker-data/
+*.db
+*.sqlite
+*.sqlite3
