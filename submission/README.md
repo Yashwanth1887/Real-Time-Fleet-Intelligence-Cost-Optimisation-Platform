@@ -47,3 +47,7 @@ Upload the PDF, editable DOCX and screenshot as files in Drive. Keep the source 
 - The demo uses synthetic records; no real fleet or driver information is included.
 - The local producer smoke results do not demonstrate sustained 100,000 events/sec end-to-end capacity. The solution document and performance report state this limitation.
 - The demo video is not included because it has not yet been recorded. Add its URL to the solution document and provide the video separately before final portal submission.
+
+## Drive-ready guide
+
+Upload [Technical_Artifacts_Guide.pdf](Technical_Artifacts_Guide.pdf) with this submission package. The editable version is [Technical_Artifacts_Guide.docx](Technical_Artifacts_Guide.docx), and [Technical_Artifacts_Guide.html](Technical_Artifacts_Guide.html) is available for browser preview with clickable links.
